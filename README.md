@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 | [**RAG-Q-A-Chatbot**](https://github.com/Kaju1611/RAG-Q-A-Chatbot) | Question answering over documents using retrieval-augmented generation | Python, Jupyter |
 | [**LangGraph-Project**](https://github.com/Kaju1611/LangGraph-Project) | Agent workflows built with LangGraph | Python, Jupyter |
 | [**car_management**](https://github.com/Kaju1611/car_management) | Car management web app | TypeScript |
-| [**Machine-Learning-Project**](https://github.com/Kaju1611/Machine-Learning-Project) | Machine learning experiments | Python, Jupyter |
+
 
 > Descriptions are inferred from repo names. Please correct them to match what each project really does.
 
