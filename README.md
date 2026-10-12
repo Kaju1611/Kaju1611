@@ -1,19 +1,4 @@
-## Hi there 👋
-
-<!--
-**Kaju1611/Kaju1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><div align="center">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=900&lines=Hello!+I'm+Prince+Kumar+Gupta+👋;AI+%2F+ML+and+Full+Stack+Developer;Nice+to+see+you+on+my+profile)](https://git.io/typing-svg)
 
@@ -27,7 +12,7 @@ Here are some ideas to get you started:
 - 🤖 Building **LLM apps, RAG chatbots and AI agents** with Python
 - 🌱 Currently learning: *(add what you're learning, e.g. LangGraph, agents, MLOps)*
 - 👯 Open to collaborating on AI projects and hackathons
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prince-kumar-gupta-b1a275259](https://www.linkedin.com/in/prince-gupta-b1a275259/?isSelfProfile=true)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prince-gupta-b1a275259/?isSelfProfile=true)
 
 ---
 
