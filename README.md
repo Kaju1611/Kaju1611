@@ -17,12 +17,35 @@
 ---
 
 ## 🛠️ Languages and Tools
+ 
+**Languages**
+ 
+<img src="https://skillicons.dev/icons?i=py,cpp" alt="Languages" /> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+ 
+**LLM and RAG**
+ 
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20Databases-555555?style=flat-square)
+ 
+**ML / DL**
+ 
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ML frameworks" /> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+ 
+**Backend**
+ 
+<img src="https://skillicons.dev/icons?i=fastapi,django" alt="Backend" /> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+ 
+**Cloud and DevOps**
+ 
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="Cloud and DevOps" />
+**Tools**
+ 
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven" alt="Tools" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,git,github,vscode&perline=8" alt="Tech stack" />
-</p>
-
-> Add more icons by editing the `i=` list (e.g. `fastapi,flask,docker,postgres`). Full list: [skillicons.dev](https://skillicons.dev)
 
 ---
 
