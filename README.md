@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🤖 Building **LLM apps, RAG chatbots and AI agents** with Python
 - 🌱 Currently learning: *(add what you're learning, e.g. LangGraph, agents, MLOps)*
 - 👯 Open to collaborating on AI projects and hackathons
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/prince-kumar-gupta-b1a275259)
+- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/prince-kumar-gupta-b1a275259](https://www.linkedin.com/in/prince-gupta-b1a275259/?isSelfProfile=true))
 
 ---
 
